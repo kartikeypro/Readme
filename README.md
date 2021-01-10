@@ -1,4 +1,4 @@
-## Hi, I'm [Kartikey Garg](###) 👋
+## Hi, I'm [Kartikey Garg](https://kartikeypro.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeypro&label=Views&color=blue&style=plastic" alt="kartikeypro" /> </p>
 
