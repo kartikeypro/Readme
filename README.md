@@ -31,14 +31,18 @@
 [![GitHub kartikeypro](https://img.shields.io/github/followers/kartikeypro?label=follow&style=social)](https://github.com/kartikeypro)
 
 
-**Languages and Tools:**  
+**Languages and Tools:** 
 
-<a href="https://github.com/itskartikey">
+<a href="https://github.com/kartikeypro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeypro&theme=light&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/kartikeypro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeypro" />
 </a>
 
-<a href="https://github.com/itskartikey">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=itskartikey&show_icons=true&theme=light&line_height=27" alt="Kartikey's github stats"/>
+<a href="https://github.com/kartikeypro">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikeypro&show_icons=true&theme=light&line_height=27" alt="Kartikey's github stats"/>
 </a>
 
 
