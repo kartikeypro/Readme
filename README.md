@@ -21,7 +21,7 @@
 
 
 - 🔭 I’m currently working on a research project.
-- ⚡  I'm also pursuing Master of Finance correspondance from [MIT](https://micromasters.mit.edu/fin/).
+- ⚡  I'm pursuing Master of Finance correspondance from [MIT](https://micromasters.mit.edu/fin/).
 - 🌱 I’m currently learning more about quantitative finance.
 - 👯 I’m looking to collaborate on financial side of ML.
 - 💬 Probability and Statitics are my daily cookies.
