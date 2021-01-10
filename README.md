@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/kartikey-garg-516043bb">
   <img align="left" alt="Kartikey's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/itskartikey">
+<a href="https://github.com/kartikeypro">
   <img align="left" alt="Kartikey's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/itskartikey">
@@ -34,8 +34,9 @@
 **Languages and Tools:**  
 
 <a href="https://github.com/itskartikey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskartikey&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeypro" />
 </a>
+
 <a href="https://github.com/itskartikey">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itskartikey&show_icons=true&theme=light&line_height=27" alt="Kartikey's github stats"/>
 </a>
