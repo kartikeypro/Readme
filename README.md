@@ -26,10 +26,9 @@
 - 👯 I’m looking to collaborate on financial side of ML.
 - 💬 Probability and Statitics are my daily cookies.
 - 😄 Pronouns: They/Theirs
-- ⚡ Fun fact: I
 
 [![Twitter: itskartikey](https://img.shields.io/twitter/follow/itskartikey?style=social)](https://twitter.com/itskartikey)
-[![Linkedin: kartikey-garg-516043bb](https://img.shields.io/badge/-kartikey-garg-516043bb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)
+[![Linkedin: kartikey-garg-516043bb](https://img.shields.io/badge/-kartikey-garg-516043bb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kartikey-garg-516043bb/)](https://www.linkedin.com/in/kartikey-garg-516043bb/)
 [![GitHub kartikeypro](https://img.shields.io/github/followers/kartikeypro?label=follow&style=social)](https://github.com/kartikeypro)
 [![website](###)
 
