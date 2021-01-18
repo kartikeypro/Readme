@@ -22,8 +22,8 @@
 
 - 🔭 I’m currently working on multiple research projects.
 - ⚡  I'm pursuing Master of Finance Correspondance from [MIT](https://micromasters.mit.edu/fin/).
-- 🌱 I’m currently learning more about quantitative finance.
-- 👯 I’m looking to collaborate on financial side of ML.
+- 🌱 I’m currently learning more about Quantitative Finance.
+- 👯 I’m looking to collaborate on Financial side of ML.
 - 💬 Probability and Statitics are my daily cookies.
 - 😄 Pronouns: They/Theirs
 
