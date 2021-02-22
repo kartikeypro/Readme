@@ -44,7 +44,7 @@
 
 <div align="center">
 
-### Please find attached my [Resume](https://snuncr-my.sharepoint.com/:b:/g/personal/kg604_snu_edu_in/ETu8cjErp1tIpXqKqXWCfBQBgxuEIaGoZZG3AblXDJYzPg?e=HXpttn)
+### Please find attached my [Resume](https://snuncr-my.sharepoint.com/:b:/g/personal/kg604_snu_edu_in/Ed-j3xTjtQdOgDkhjkiz8GUBhC0RPaxal6k_86NONHJfdw?e=vXaGeu)
 
 </div>
 
