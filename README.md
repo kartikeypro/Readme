@@ -19,7 +19,7 @@
 <br/>
 
 
-
+- ฿  Take a look at my article on [cryptocurrency](https://kartikeygarg2.medium.com/blockchain-thinking-to-invest-334941da5fb8)
 - 🔭 I’m currently working on multiple research projects.
 - ⚡  I'm pursuing Master of Finance Correspondance from [MIT](https://micromasters.mit.edu/fin/).
 - 🌱 I’m currently learning more about Quantitative Finance.
